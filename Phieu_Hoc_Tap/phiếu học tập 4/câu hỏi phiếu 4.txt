@@ -1,0 +1,3 @@
+câu hỏi phiếu 4:
+Tại sao khi kết nối PDO lại cần setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION)?
+Trong vòng lặp while ($row = $stmt_select->fetch(...)), tại sao lại dùng fetch() mà không dùng fetchAll()?
