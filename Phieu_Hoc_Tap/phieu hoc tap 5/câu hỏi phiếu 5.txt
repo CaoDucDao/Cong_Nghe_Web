@@ -1,0 +1,3 @@
+câu hỏi phiếu 5:
+
+Tại sao View không nên tự gọi hàm getAllSinhVien() của Model để lấy dữ liệu hiển thị cho nhanh, mà bắt buộc phải chờ Controller truyền biến $danh_sach_sv sang? Nếu bỏ qua Controller, nguyên tắc 'tách biệt trách nhiệm' có bị vi phạm không?"
