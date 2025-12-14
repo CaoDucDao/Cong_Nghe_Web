@@ -1,0 +1,3 @@
+câu hỏi :
+Tại sao Laravel lại tách biệt phần định tuyến (Routing - nằm trong routes/web.php) ra khỏi phần xử lý logic (Controller), thay vì để Route tự xử lý code hoặc gộp chung như trong các dự án PHP thuần trước đây? 
+Việc phân chia trách nhiệm này (Separation of Concerns) mang lại lợi ích cụ thể gì khi dự án mở rộng hoặc khi làm việc nhóm?"
